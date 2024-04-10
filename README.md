@@ -1,3 +1,1 @@
-Just a BSIS boi 
-who wants to learn 
-how to code
+just a boy who want to be a full-stack dev
