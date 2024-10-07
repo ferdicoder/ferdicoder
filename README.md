@@ -1,1 +1,1 @@
-just a boy who want to be a full-stack dev
+C/C++, JAVA, Python
