@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm aspiring Software Engineering passionate building a tool and complex systems that solves individual and organizational problems.
+I'm aspiring Software Engineering/Full-Stack Developer passionate building a tool and complex systems that deliver solutions. I enjoy scaling system in the backend and analyzing system.
 
 
 ## 🌐 Socials:
