@@ -9,6 +9,5 @@
   <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,git,github,jest,postman" alt="Technologies" />
 </p>
 
-# GitHub Stats:
-![](https://streak-stats.demolab.com/?user=ferdicoder&theme=dark&hide_border=true)
+
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ferdicoder&theme=dark&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
