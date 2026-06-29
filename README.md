@@ -1,4 +1,3 @@
-# Tech Stack:
 ### Languages & Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind" alt="Languages and Frameworks" />
