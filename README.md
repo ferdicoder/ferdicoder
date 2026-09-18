@@ -5,5 +5,5 @@
 
 ### Technologies
 <p>
-  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,git,github,jest,postman,supabase,vite,linux" alt="Technologies" />
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,mongo,git,github,postman,supabase,vite,linux,aws,bash" alt="Technologies" />
 </p>
