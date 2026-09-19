@@ -1,6 +1,6 @@
 ### Languages & Frameworks
 <p>
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind" alt="Languages and Frameworks" />
+  <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,vitest" alt="Languages and Frameworks" />
 </p>
 
 ### Technologies
