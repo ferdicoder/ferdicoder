@@ -1,4 +1,4 @@
-### Languages & Frameworks
+### Languages & Frameworks/Libraries
 <p>
   <img src="https://skillicons.dev/icons?i=js,ts,react,nodejs,express,tailwind,vitest" alt="Languages and Frameworks" />
 </p>
